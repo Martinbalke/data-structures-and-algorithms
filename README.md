@@ -1,6 +1,6 @@
 # data-structures-and-algorithms
 
-This repository is for code challanges
+This repository is for code challenges
 
 Author Martin Balke
 
